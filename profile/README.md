@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/DISCOVER-Robotics/.github/feat/update-profile-readme/assets/discover-header-logo-dark.svg" width="144" height="80" alt="DISCOVER Robotics 求之科技">
+<img src="https://raw.githubusercontent.com/DISCOVER-Robotics/.github/bb61ad0/assets/discover-header-logo-dark.svg" width="144" height="80" alt="DISCOVER Robotics 求之科技">
 
 # DISCOVER Robotics
 
