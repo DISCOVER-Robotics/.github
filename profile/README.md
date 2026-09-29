@@ -2,19 +2,15 @@
 
 <img src="https://raw.githubusercontent.com/DISCOVER-Robotics/.github/feat/update-profile-readme/assets/discover-header-logo-dark.svg" width="380" height="211" alt="DISCOVER Robotics">
 
-# DISCOVER Robotics
+## About us
 
-**Building capable, reliable, and accessible robots.**
+DISCOVER Robotics develops embodied intelligence and robotics technology across hardware, motion control, perception, manipulation learning, and simulation. Our open-source projects connect research ideas with dependable real-world robot applications.
 
 [![Website](https://img.shields.io/badge/Website-discover--robotics.com-111827?style=flat-square&logo=googlechrome&logoColor=white)](https://www.discover-robotics.com/)
 [![Documentation](https://img.shields.io/badge/Documentation-Docs-2563eb?style=flat-square&logo=readthedocs&logoColor=white)](https://docs.discover-robotics.com/document/)
 [![GitHub](https://img.shields.io/badge/GitHub-DISCOVER--Robotics-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DISCOVER-Robotics)
 
 </div>
-
-## About us
-
-DISCOVER Robotics develops embodied intelligence and robotics technology across hardware, motion control, perception, manipulation learning, and simulation. Our open-source projects connect research ideas with dependable real-world robot applications.
 
 ## Open source
 
