@@ -1,6 +1,8 @@
 <div align="left">
 
-<img src="https://raw.githubusercontent.com/DISCOVER-Robotics/.github/bb61ad0/assets/discover-header-logo-dark.svg" width="220" height="122" alt="DISCOVER Robotics">
+<table>
+<tr><td bgcolor="#ffffff"><img src="https://raw.githubusercontent.com/DISCOVER-Robotics/.github/bb61ad0/assets/discover-header-logo-dark.svg" width="320" height="178" alt="DISCOVER Robotics"></td></tr>
+</table>
 
 # DISCOVER Robotics
 
