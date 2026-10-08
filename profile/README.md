@@ -28,7 +28,7 @@ DISCOVER Robotics develops embodied intelligence and robotics technology across 
 | --- | --- | --- |
 | **Dual-arm learning** | [AIRBOT PTK Dual-Arm Demo](https://github.com/DISCOVER-Robotics/AIRBOT-PTK-Demo) | PTK data collection, policy training, and inference guides with original configurations and compatible package references. |
 | **Dual-arm manipulation** | [AIRBOT Play PTK Cloth Folding](https://github.com/DISCOVER-Robotics/AIRBOT-Play-PTK-Cloth-Folding-Demo) | Dual-arm T-shirt folding with a PI0.5 policy, including workstation setup, software baseline, model, and dataset references. |
-| **Vision & simulation** | [AIRBOT Keyboard Visual Grasp](https://github.com/DISCOVER-Robotics/AIRBOT-Keyboard-Visual-Grasp-Demo) | Single-arm visual grasping in DISCOVERSE simulation, controlled with keyboard commands. |
+| **Vision & manipulation** | [AIRBOT Keyboard Visual Grasp](https://github.com/DISCOVER-Robotics/AIRBOT-Keyboard-Visual-Grasp-Demo) | Keyboard-controlled single-arm visual grasping in simulation and on AIRBOT Play hardware, with an optional read-only feedback mirror. |
 
 Browse all repositories: [github.com/DISCOVER-Robotics?tab=repositories](https://github.com/DISCOVER-Robotics?tab=repositories)
 
